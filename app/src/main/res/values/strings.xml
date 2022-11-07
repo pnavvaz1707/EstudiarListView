@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">EstudiarListView</string>
+    <string name="tv_name">Name:</string>
+    <string name="tv_tel">Telephone:</string>
+    <string name="tv_age">Age:</string>
+    <string name="btn_anadir">Añadir</string>
+</resources>
